@@ -1,9 +1,3 @@
-// C++ code
-//
-/*
-  This program blinks pin 13 of the Arduino (the
-  built-in LED)
-*/
 
 void setup()
 {
@@ -22,6 +16,7 @@ void setup()
 // 4 amarelo carro
 // 13 vermelho carro
 // 5 verde carro
+
 void loop()
 {
  digitalWrite(10,HIGH);
